@@ -1,18 +1,27 @@
-# Proyecto para practicar
+# Clean Code y Principios SOLID
 
-Este es un proyecto de Vanilla TypeScript en Vite, para trabajar los ejercicios del curso sobre Principios SOLID y CleanCode.
+## Clean Code y Deuda técnica
+- #### ¿Qué es la deuda técnica?
+- #### ¿Cómo se paga la deuda técnica?
+- #### Refactorización.
+- #### Nombres de variables.
+- #### Nombres para funciones.
+- #### Principio DRY.
+- #### Uniformidad de un proyecto.
 
-Clonar o descargar el proyecto y luego:
+___
 
-```
-yarn install
-ó
-npm install
-```
+## Acrónimo STUPID
+- #### CodeSmells - STUPID.
+- #### Acoplamiento y Cohesión.
+- #### Bajo acoplamiento y baja cohesión.
+- #### Acopladores.
 
-Para ejecutar el proyecto, simplemente ejecuten
-```
-yarn dev
-ó
-npm run dev
-```
+___
+
+## Principios SOLID
+- #### S – Single Responsibility Principle (SRP).
+- #### O – Open/Closed Principle (OCP).
+- #### L – Liskov Substitution Principle (LSP).
+- #### I – Interface Segregation Principle (ISP).
+- #### D – Dependency Inversion Principle (DIP).
